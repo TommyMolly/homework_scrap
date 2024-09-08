@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Middle Python разработчик (FastAPI / Django)",
+        "link": "https://hh.ru/vacancy/106559178",
+        "company": "Мамаева Ирина Анатольевна",
+        "salary": {
+            "from": 170000,
+            "to": 220000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "city": "Москва"
+    },
+    {
+        "title": "Backend разработчик Python (Django)",
+        "link": "https://hh.ru/vacancy/106007277",
+        "company": "ШЕВИ ПЛЮС-5",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "city": "Санкт-Петербург"
+    },
+    {
+        "title": "Python-разработчик (Flask)",
+        "link": "https://hh.ru/vacancy/106134233",
+        "company": "СКАИД",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "city": "Москва"
+    },
+    {
+        "title": "Разработчик средств автоматизации Python/Django",
+        "link": "https://hh.ru/vacancy/106172260",
+        "company": "Код Безопасности",
+        "salary": null,
+        "city": "Москва"
+    },
+    {
+        "title": "Python-разработчик (Django, FastAPI)",
+        "link": "https://hh.ru/vacancy/104833774",
+        "company": "Dinord",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "city": "Москва"
+    },
+    {
+        "title": "Разработчик Python/Django (middle)",
+        "link": "https://hh.ru/vacancy/106579519",
+        "company": "Т8",
+        "salary": null,
+        "city": "Москва"
+    }
+]
